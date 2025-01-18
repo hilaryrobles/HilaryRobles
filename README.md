@@ -11,7 +11,7 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory, Splunk | <a href=https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
+| Active Directory, Splunk | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/hackingprincesa/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|

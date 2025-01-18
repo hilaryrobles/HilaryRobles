@@ -47,5 +47,5 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
+- <a href="https://google.com](https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>
 - <a href="https://github.com/hackingprincesa/Malware-Analysis-Lab">Malware Analysis Lab</a>

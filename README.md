@@ -46,6 +46,6 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+## Cyber Security Projects
 - <a href="https://google.com](https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>
 - <a href="https://github.com/hackingprincesa/Malware-Analysis-Lab">Malware Analysis Lab</a>

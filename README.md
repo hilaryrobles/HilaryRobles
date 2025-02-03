@@ -12,12 +12,6 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory, Splunk | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/hackingprincesa/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -36,7 +30,6 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -48,4 +41,4 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 
 ## Cyber Security Projects
 - <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>
-- <a href="https://github.com/hackingprincesa/Malware-Analysis-Lab">Malware Analysis Lab</a>
+

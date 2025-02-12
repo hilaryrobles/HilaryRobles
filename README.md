@@ -27,9 +27,10 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-## Scripting & Automation
-
+### Scripting & Automation
+<div>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
 
 ## Certifications
 <div>

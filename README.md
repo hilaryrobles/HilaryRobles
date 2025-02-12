@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Hilary Robles
   <a href="https://www.linkedin.com/in/hillary-robles"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m an aspiring SOC Analyst with a deep interest in technology and a dedication to solving complex problems. My journey into cybersecurity has fueled my passion for protecting systems and responding to threats, and I’m eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m an aspiring tech professional with a passion for technology and a knack for solving complex problems. My journey into the tech world has sparked my interest in cybersecurity and system protection, and I’m eager to apply my skills in a variety of tech fields. 
 
 ## Objective
 
-I aim to leverage my skills and knowledge to make a positive impact in a SOC environment, helping to safeguard digital assets and manage security incidents effectively.
+I aim to leverage my skills and knowledge to make a positive impact in a SOC environment, helping to safeguard digital assets and manage security incidents effectively. Stay tuned as this portfolio will contiously grow as I complete more projects and certificates.
 
 ## Skills
 

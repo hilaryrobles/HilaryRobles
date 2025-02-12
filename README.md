@@ -11,20 +11,16 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory, Splunk | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
+| Active Directory, Splunk, Kali Linux, Powershell, Atomic Red Team | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
+### Offensive Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  
 </div>
 
 ### SIEM

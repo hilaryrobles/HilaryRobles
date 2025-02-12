@@ -24,7 +24,7 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 ### Offensive Security
 
 <div>
-    <img src="![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)" />
+    <img src="[Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)" />
 </div>
 
 ## Certifications

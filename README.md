@@ -12,6 +12,7 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory, Splunk, Kali Linux, Powershell, Atomic Red Team | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
+| Wazuh, Shuffle, TheHive, VirusTotal | <a href="https://github.com/hilaryrobles/SOC-Automation-Lab">SOC Automation Lab</a>
 
 ## Tools
 
@@ -39,4 +40,5 @@ I aim to leverage my skills and knowledge to make a positive impact in a SOC env
 
 ## Cyber Security Projects
 - <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>
+- <a href="https://github.com/hilaryrobles/SOC-Automation-Lab">SOC Automation Lab</a>
 

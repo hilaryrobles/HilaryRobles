@@ -12,7 +12,8 @@ I aim to grow into a dedicated IAM professional, leveraging my hands on IT exper
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory, Splunk, Kali Linux, Powershell, Atomic Red Team | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
-| Wazuh, Shuffle, TheHive, VirusTotal | <a href="https://github.com/hilaryrobles/SOC-Automation-Lab">SOC Automation Lab</a>
+| Wazuh, Shuffle, TheHive, VirusTotal | <a href="https://github.com/hilaryrobles/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Entra ID, Powershell | <a href="https://github.com/hilaryrobles/IAM-Automation-Lab">IAM Automation Lab</a>|
 
 ## Tools
 
@@ -41,4 +42,5 @@ I aim to grow into a dedicated IAM professional, leveraging my hands on IT exper
 ## Cyber Security Projects
 - <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>
 - <a href="https://github.com/hilaryrobles/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/hilaryrobles/IAM-Automation-Lab">IAM Automation Lab</a>
 

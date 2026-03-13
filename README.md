@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Hilary Robles
   <a href="https://www.hilaryrobles.com/"><img src="https://img.shields.io/badge/hilaryrobles.com-9B59B6?&style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
 
-I'm an IT Technician with a growing focus on Identity and Access Management. What started as a deep curiosity about technology has evolved into a clear direction, and I'm passionate about building a career at the intersection of security and identity. I'm currently gaining hands on experience in the field while sharpening my skills in Entra ID, PowerShell, and beyond.
+I'm an IT Technician with a passion for Identity and Access Management. From earning my Security+ to building hands on labs to working in IT, I've been intentional about every step of this journey. Right now I'm deepening my skills in Entra ID and PowerShell with my sights set on growing into a dedicated IAM role.
 
 ## Objective
 
-I aim to grow into a dedicated IAM professional, leveraging my hands on IT experience and security foundation to help organizations manage access, protect identities, and reduce risk across their environments.
+I want to grow into a dedicated IAM professional and help organizations answer one of the most important questions in security: who has access to what, and should they?
 
 ## Skills
 

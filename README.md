@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hilary Robles
-  <a href="https://www.hilaryrobles.com/"><img src="https://img.shields.io/badge/hilaryrobles.com-E6E6FA?&style=for-the-badge&logo=Google-Chrome&logoColor=grey" /></a>
+  <a href="https://www.hilaryrobles.com/"><img src="https://img.shields.io/badge/hilaryrobles.com-9B59B6?&style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
 
 I'm an IT Technician with a growing focus on Identity and Access Management. What started as a deep curiosity about technology has evolved into a clear direction, and I'm passionate about building a career at the intersection of security and identity. I'm currently gaining hands on experience in the field while sharpening my skills in Entra ID, PowerShell, and beyond.
 

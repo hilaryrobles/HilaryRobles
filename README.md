@@ -16,21 +16,22 @@ I aim to grow into a dedicated IAM professional, leveraging my hands on IT exper
 
 ## Tools
 
-### SIEM
+### Identity & Access Management
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### Offensive Security
-
+### Administration
 <div>
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange_Admin_Center-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Scripting & Automation
 <div>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?&style=for-the-badge&logoColor=white" />
+</div>
 </div>
 
 ## Certifications

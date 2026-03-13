@@ -13,6 +13,7 @@ I want to grow into a dedicated IAM professional and help organizations answer o
 |-----------------------------------------------|----------------------------|
 | Active Directory, Splunk, Kali Linux, Powershell, Atomic Red Team | <a href="https://github.com/hackingprincesa/Active-Directory-Lab">Active Directory Lab</a>|
 | Entra ID, Powershell | <a href="https://github.com/hilaryrobles/IAM-Automation-Lab">IAM Automation Lab</a>|
+| PowerShell, Entra ID, Active Directory, Microsoft 365 | <a href="https://github.com/hilaryrobles/PowerShell-Identity-Automation">PowerShell Identity Automation Scripts</a>|
 
 ## Tools
 
